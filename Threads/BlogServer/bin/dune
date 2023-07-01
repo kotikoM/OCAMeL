@@ -1,0 +1,4 @@
+(executable
+ (public_name BlogServer)
+ (name main)
+ (libraries threads))
